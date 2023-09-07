@@ -1,0 +1,93 @@
+body {
+    background:url(road.jpeg);
+  background-size: cover;
+}
+header li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+header {
+    float: right;
+}
+
+header li a {
+    font-family: curssive;
+    text-decoration: none;
+    color: rgb(211, 18, 18);
+}
+
+header li:hover {
+    background-color: brown;
+
+}
+h8{
+    text-align: center;
+    font-weight: 500;
+   font-size: 200%;
+   color: aqua;
+}
+h7{
+    text-align: center;
+    font-weight: 700;
+    color: aliceblue;
+    font-size: 300%;
+}
+div.a{
+    text-align: center;
+}
+h9{
+    background-color: bisque;
+        font-family: sans-serif;
+
+}
+ div.contact-box{
+    background:url(phone.jpeg) ;
+    width: 500px;
+    background-color:rgb(44, 37, 37);
+    box-shadow: 0 0 20px 0 rgb(17, 14, 14);
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position:absolute;
+
+ }
+ form
+ {
+    margin: 35px;
+ }
+ .input-field
+ {
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+ }
+ .textarea-field
+ {
+    height: 150px;
+    padding-top: 10px;
+ }
+.btn
+{
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: powderblue;
+    font-size:12px ;
+    border: none;
+    cursor: pointer;
+}
+p{
+    color: aqua;
+}
+h3{
+    color: #fff;
+}
+.footer{
+    color: #fff;
+}

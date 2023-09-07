@@ -1,0 +1,33 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   background-color:white;
+}
+header li{
+    display: inline-block;
+    padding:0 20px ;
+}
+header{
+    float: right;
+}
+header li a{
+    font-family: curssive;
+    text-decoration:none;
+    color: black;
+}
+header li:hover{
+    background-color: brown;
+
+}
+body{
+    
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+}

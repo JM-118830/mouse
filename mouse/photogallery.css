@@ -1,0 +1,28 @@
+header li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+header {
+    float: right;
+}
+
+header li a {
+    font-family: curssive;
+    text-decoration: none;
+    color: black;
+}
+
+header li:hover {
+    background-color: brown;
+
+}
+h1{
+   
+    color: rgb(117, 5, 134);
+    text-align: center;
+}
+.photography{
+    opacity: 2;
+ 
+}
